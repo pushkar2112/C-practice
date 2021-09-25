@@ -1,7 +1,7 @@
 
 #include <stdio.h>
 
-int main() {
+void main() {
     int first,second,add,sub,mul,div,mod;
     printf("Enter two numbers:\n");
     scanf("%d%d",&first,&second);
@@ -14,5 +14,5 @@ int main() {
     
     
     
-    return 0;
+    
 }
